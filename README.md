@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishnaswam
-- 👀 I’m interested in Web Development, Cyber Security.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me in Linkedin profile: https://www.linkedin.com/in/pasupuleti-krishna-swamy-874080273
 
