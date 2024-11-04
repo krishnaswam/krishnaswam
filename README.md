@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnaswam
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning MERN
 - 📫 Reach me in Linkedin profile: https://www.linkedin.com/in/pasupuleti-krishna-swamy-874080273
 
 <!---
